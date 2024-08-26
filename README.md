@@ -1,4 +1,4 @@
-# Gaussian and Laplacian pyramids
+# Gaussian and Laplacian Pyramids
 
 
 This project involves constructing and analyzing Gaussian and Laplacian pyramids for image decomposition and reconstruction, as well as evaluating their efficiency through quantization. 
